@@ -1,16 +1,36 @@
-## Hi there 👋
+# Ana Gomes 👩‍💻 | Front-End Developer em formação
 
-<!--
-**anapgomes41/anapgomes41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma entusiasta da tecnologia com foco em Front-End, dedicada a construir interfaces web responsivas, limpas e funcionais. Estudo Análise e Desenvolvimento de Sistemas e estou constantemente aprimorando minhas habilidades em JavaScript, HTML e CSS.
 
-Here are some ideas to get you started:
+Busco minha primeira oportunidade como desenvolvedora Front-End Júnior para aplicar meus conhecimentos, enfrentar desafios reais e contribuir com soluções que impactem positivamente a experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tecnologias e Ferramentas
+
+- **Linguagens:** HTML5, CSS3 (Flexbox, Grid, CSS Variables), JavaScript (ES6+)  
+- **Desenvolvimento responsivo:** Mobile-first, design adaptativo, técnicas de responsividade  
+- **Versionamento:** Git e GitHub para controle de código e colaboração  
+- **Ambientes:** Visual Studio Code  
+- **Design e prototipagem:** Figma  
+
+---
+
+## Sobre mim
+
+- Estudante de Análise e Desenvolvimento de Sistemas  
+- Apaixonada por Front-End e desenvolvimento web  
+- Focada em aprender, evoluir e entregar código de qualidade  
+- Em busca de oportunidades remotas como Front-End Júnior  
+
+---
+
+## Contato
+- E-mail: anapgomes41@gmail.com  
+
+---
+
+✨ Obrigada pela visita ao meu perfil!  
+Estou aberta a conexões, colaborações e oportunidades para crescer na área de Front-End.
+
+
